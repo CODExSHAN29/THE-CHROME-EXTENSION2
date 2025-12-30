@@ -348,7 +348,8 @@ The extension uses Chrome Manifest V3 with:
 
 - **Issues**: Open a GitHub issue
 - **Questions**: GitHub Discussions
-- **Author**: Rishav-roy-10
+- **Author**: CODExSHAN29
+
 
 ## 📄 License
 
@@ -367,3 +368,4 @@ ISC License - See LICENSE file for details
 **Built with ❤️ using React, Vite, and modern web technologies**
 
 ### Quick Links
+
